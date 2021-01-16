@@ -12,4 +12,4 @@ def SieveOfEratosthenes(n):
 
 
 if __name__ == '__main__':
-    print(SieveOfEratosthenes(30))
+    print(SieveOfEratosthenes(2785))
